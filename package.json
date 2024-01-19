@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "@trybe/eslint-config-frontend": "^1.11.4",
+    "sweetalert2": "^11.10.3",
+    "vite": "^5.0.11"
+  },
+  "name": "super-herois",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vite",
+    "lint": "eslint --no-inline-config --no-error-on-unmatched-pattern -c .eslintrc.json . --ext .js"
+
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
